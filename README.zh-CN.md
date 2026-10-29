@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/flatbuffers/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/flatbuffers/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/turlamai/flatbuffers/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/flatbuffers/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [FlatBuffers](https://flatbuffers.dev/) 线格式的纯 Racket 实现（Google 的零拷贝序列化）：
 
