@@ -7,7 +7,7 @@
    (make-base-eval #:lang 'racket/base '(require flatbuffers)))
 
 @title{FlatBuffers: Generic Reader and Builder}
-@author[@(tt "turinglambdaai")]
+@author{TurLamAI}
 
 @defmodule[flatbuffers]
 
